@@ -1,0 +1,42 @@
+[
+    {
+      "_id": "61272cf45ffe4ebfa6a906bc",
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "name": "Melva Rodgers",
+      "gender": "female",
+      "email": "melvarodgers@elpro.com"
+    },
+    {
+      "_id": "61272cf49354a52b604125ec",
+      "picture": "http://placehold.it/32x32",
+      "age": 34,
+      "name": "Tamra Ayala",
+      "gender": "female",
+      "email": "tamraayala@elpro.com"
+    },
+    {
+      "_id": "61272cf416fcdf6864222f2d",
+      "picture": "http://placehold.it/32x32",
+      "age": 29,
+      "name": "Melinda Guerra",
+      "gender": "female",
+      "email": "melindaguerra@elpro.com"
+    },
+    {
+      "_id": "61272cf4df08bfec005ef3ac",
+      "picture": "http://placehold.it/32x32",
+      "age": 39,
+      "name": "Sallie Lane",
+      "gender": "female",
+      "email": "sallielane@elpro.com"
+    },
+    {
+      "_id": "61272cf4338d7278296672ef",
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "name": "Haney Rogers",
+      "gender": "male",
+      "email": "haneyrogers@elpro.com"
+    }
+  ]

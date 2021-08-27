@@ -1,0 +1,52 @@
+[
+    {
+      "_id": "612644bbc5ac050678bacbaa",
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "name": "Monique Graham",
+      "gender": "female",
+      "email": "moniquegraham@gink.com",
+      "phone": "+1 (896) 410-2761",
+      "address": "151 Thatford Avenue, Norfolk, New Hampshire, 9235"
+    },
+    {
+      "_id": "612644bba435884f0d4e1e2a",
+      "picture": "http://placehold.it/32x32",
+      "age": 32,
+      "name": "Christian Cooke",
+      "gender": "female",
+      "email": "christiancooke@gink.com",
+      "phone": "+1 (992) 565-2649",
+      "address": "549 Meserole Avenue, Limestone, Ohio, 186"
+    },
+    {
+      "_id": "612644bb79b5a95cf4621846",
+      "picture": "http://placehold.it/32x32",
+      "age": 30,
+      "name": "Williams Mccall",
+      "gender": "male",
+      "email": "williamsmccall@gink.com",
+      "phone": "+1 (834) 483-3825",
+      "address": "138 Abbey Court, Wattsville, Louisiana, 2877"
+    },
+    {
+      "_id": "612644bb61baeff3aa84ee13",
+      "picture": "http://placehold.it/32x32",
+      "age": 22,
+      "name": "Mcmillan Barker",
+      "gender": "male",
+      "email": "mcmillanbarker@gink.com",
+      "phone": "+1 (953) 512-2549",
+      "address": "476 McKinley Avenue, Axis, Oregon, 1171"
+    },
+    {
+      "_id": "612644bbc93228ec3fb1f87b",
+      "picture": "http://placehold.it/32x32",
+      "age": 30,
+      "name": "Conrad Larsen",
+      "gender": "male",
+      "email": "conradlarsen@gink.com",
+      "phone": "+1 (812) 585-2072",
+      "address": "703 Linden Boulevard, Harrison, Palau, 662"
+    }
+  ]
