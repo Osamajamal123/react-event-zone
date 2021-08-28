@@ -29,7 +29,7 @@ setData(Jsontable);
   {data?.map((single,index)=>(
   <tr key={index}>
     <td>{index +1}</td>
-    <td><img src={single.picture} /></td>
+    <td><img src={single.picture} alt="git "/></td>
     <td>{single.age}</td>
     <td>{single.name}</td>
     <td>{single.gender}</td>
