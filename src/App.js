@@ -1,6 +1,6 @@
 import './App.css';
 import Routespages from "./router"
-import { Switch } from 'react-router-dom'
+import { Switch,withRouter } from 'react-router-dom'
 
 function App() {
   return (
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default withRouter(App);

@@ -1,0 +1,23 @@
+.signupcenter{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.signupcenter .signup{
+width: 35%;
+--tw-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+.signupcenter .signup .dataflex{
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+.signupcenter .signup .dataflex .divfelx{
+display: flex;
+justify-content: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}

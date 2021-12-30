@@ -1,0 +1,101 @@
+[
+    {
+      "renovation": "windowsDoubleAndDoors_wallExt_ventC+_condGas",
+      "investment_cost": "65200.0",
+      "yearly_savings": "3497.0",
+      "co2_savings": "14334.65",
+      "total_subsidy": "16643.7",
+      "epc_label": "1",
+      "epc_label_subsidy": "0",
+      "epc_heating_consumption": "53423.4",
+      "epc_total_co2": "14334.65"
+    },
+    {
+      "renovation": "windowsDoubleAndDoors_wallExt_ventC+_heatPump",
+      "investment_cost": "75900.0",
+      "yearly_savings": "4473.0",
+      "co2_savings": "18273.53",
+      "total_subsidy": "18643.7",
+      "epc_label": "3",
+      "epc_label_subsidy": "0",
+      "epc_heating_consumption": "35156.0",
+      "epc_total_co2": "18273.53"
+    },
+    {
+      "renovation": "windowsDoubleAndDoors_wallExt_ventD_condGas",
+      "investment_cost": "68000.0",
+      "yearly_savings": "3340.0",
+      "co2_savings": "14510.89",
+      "total_subsidy": "19443.7",
+      "epc_label": "4",
+      "epc_label_subsidy": "0",
+      "epc_heating_consumption": "51133.6",
+      "epc_total_co2": "14510.89"
+    },
+    {
+      "renovation": "windowsDoubleAndDoors_wallExt_ventD_heatPump",
+      "investment_cost": "78500.0",
+      "yearly_savings": "4277.0",
+      "co2_savings": "18291.61",
+      "total_subsidy": "21443.7",
+      "epc_label": "2",
+      "epc_label_subsidy": "0",
+      "epc_heating_consumption": "33649.2",
+      "epc_total_co2": "18291.61"
+    },
+    {
+      "renovation": "windowsDoubleAndDoors_roofAttic_ventC+_condGas",
+      "investment_cost": "30200.0",
+      "yearly_savings": "2840.0",
+      "co2_savings": "11465.72",
+      "total_subsidy": "10116.23",
+      "epc_label": "6",
+      "epc_label_subsidy": "0",
+      "epc_heating_consumption": "68399.8",
+      "epc_total_co2": "11465.72"
+    },
+    {
+      "renovation": "windowsDoubleAndDoors_roofAttic_ventC+_heatPump",
+      "investment_cost": "41500.0",
+      "yearly_savings": "4063.0",
+      "co2_savings": "16402.46",
+      "total_subsidy": "12116.23",
+      "epc_label": "1",
+      "epc_label_subsidy": "0",
+      "epc_heating_consumption": "45011.5",
+      "epc_total_co2": "16402.46"
+    },
+    {
+      "renovation": "windowsDoubleAndDoors_roofAttic_ventD_condGas",
+      "investment_cost": "32800.0",
+      "yearly_savings": "2721.0",
+      "co2_savings": "11653.07",
+      "total_subsidy": "12716.23",
+      "epc_label": "6",
+      "epc_label_subsidy": "0",
+      "epc_heating_consumption": "66296.5",
+      "epc_total_co2": "11653.07"
+    },
+    {
+      "renovation": "windowsDoubleAndDoors_roofAttic_ventD_heatPump",
+      "investment_cost": "44000.0",
+      "yearly_savings": "3908.0",
+      "co2_savings": "16444.54",
+      "total_subsidy": "14716.23",
+      "epc_label": "4",
+      "epc_label_subsidy": "0",
+      "epc_heating_consumption": "43627.4",
+      "epc_total_co2": "16444.54"
+    },
+    {
+      "renovation": "windowsDoubleAndDoors_roofIn_ventC+_condGas",
+      "investment_cost": "34300.0",
+      "yearly_savings": "2679.0",
+      "co2_savings": "11033.71",
+      "total_subsidy": "10557.24",
+      "epc_label": "4",
+      "epc_label_subsidy": "0",
+      "epc_heating_consumption": "69764.7",
+      "epc_total_co2": "11033.71"
+    }
+  ]

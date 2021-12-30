@@ -1,0 +1,7 @@
+.formcenter{
+    display: flex;
+    justify-content: center;
+}
+.center{
+    width: 30%;
+}

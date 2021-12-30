@@ -39,3 +39,11 @@ color: white;
 width: 300px;
 padding: 20px;
   }
+  .input2{
+    display: flex;
+    justify-content: center;
+  }
+  .input2 input{
+    width: 300px;
+    padding: 20px;
+      }

@@ -1,0 +1,27 @@
+.cookiesback{
+width: 100%;
+display: flex;
+justify-content: center;
+}
+.cookiesback .cookiesdata{
+width: 30%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+--tw-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+height: 350px;
+}
+.datacookies .flexcookies{
+    display: flex;
+padding-bottom: 15px;
+}
+.buttoncenter{
+    display: flex;
+    justify-content: center;
+}
+.para{
+    color: red;
+    font-size: 12px;
+}

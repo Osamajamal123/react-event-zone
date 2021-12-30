@@ -1,6 +1,10 @@
 .pagetwo p{
 color: black;
 }
+.pagetwo{
+  display: flex;
+  justify-content: space-around;
+}
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -15,4 +19,18 @@ table {
   
   tr:nth-child(even) {
     background-color: #dddddd;
+  }
+  .h1{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+  }
+  .form{
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+  }
+  .form input{
+    padding: 30px;
+    margin: 20px;
   }
